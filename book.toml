@@ -1,0 +1,6 @@
+[book]
+authors = ["Shogo Takata"]
+language = "en"
+multilingual = false
+src = "src"
+title = "C言語ワークショップ資料"
