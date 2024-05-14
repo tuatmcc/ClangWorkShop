@@ -5,17 +5,20 @@ printfは画面に文字を表示するための関数です。
 使用例：
 
 ```c
-printf("Hello World");
+int main(){
+    printf("Hello World\n");
+}
 ```
 
-<div class="warning">
+## 変数の出力
 
-This is a bad thing that you should pay attention to.
+整数型の`int`はprintfの文字列の中に`%d`を入れることで表示することができます。
 
-Warning blocks should be used sparingly in documentation, to avoid "warning
-fatigue," where people are trained to ignore them because they usually don't
-matter for what they're doing.
+```c
+int main(){
+    int a = 10;
+    printf("a = %d\n", a);
+}
+```
 
-</div>
-
-## 余談 -printfの引数について-
+他にも浮動小数点の出力には`%f`,文字列の出力には`%s`など他にもいくつか使用できます。
