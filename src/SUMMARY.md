@@ -24,3 +24,5 @@
   - [サブルーチンとしての関数](./function/subroutine.md)
   - [演習](./function/intro.md)
 - [ポインタ](./pointer/intro.md)
+  - [swap関数](./pointer/swap.md)
+  - [参照Swap関数](./pointer/refswap.md)
