@@ -6,8 +6,8 @@
 #include <stdio.h>
 
 int main(){
-    char str1[] = "Hello, World!";
-    char str2[14] = {'H', 'e', 'l', 'l', 'o', ',', ' ', 'W', 'o', 'r', 'l', 'd', '!', '\0'};
+    char str1[] = "TUAT";
+	char str2[] = {'T', 'U', 'A', 'T', '\0'};
     
 	printf("%s\n", str1);
 	printf("%s\n", str2);
