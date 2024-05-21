@@ -31,6 +31,7 @@
   - [文字列の長さ](./string/strlen.md)
   - [文字列の比較](./string/strcmp.md)
   - [文字列の連結](./string/strcat.md)
+  - [文字列のコピー](./string/strcpy.md)
 - [構造体](./struct/intro.md)
 - [メモリの動的確保](./allocate/intro.md)
 - [ファイル入出力](./file/intro.md)
