@@ -26,6 +26,7 @@
 - [ポインタ](./pointer/intro.md)
   - [swap関数](./pointer/swap.md)
   - [参照Swap関数](./pointer/refswap.md)
+  - [ポインタと配列](./pointer/array.md)
 - [文字列](./string/intro.md)
 - [構造体](./struct/intro.md)
 - [メモリの動的確保](./allocate/intro.md)
