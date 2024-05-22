@@ -33,5 +33,7 @@
   - [文字列の連結](./string/strcat.md)
   - [文字列のコピー](./string/strcpy.md)
 - [構造体](./struct/intro.md)
+  - [構造体の配列](./struct/structarray.md)
+  - [構造体のポインタ](./struct/structpointer.md)
 - [メモリの動的確保](./allocate/intro.md)
 - [ファイル入出力](./file/intro.md)
