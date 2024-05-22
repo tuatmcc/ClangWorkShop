@@ -62,9 +62,9 @@ int main(){
 
 	p = &person;
 	
-	printf("Name: %s\n", (*p).name);
-	printf("Age: %d\n", (*p).age);
-	printf("Height: %.1f\n", (*p).height);
+	printf("Name: %s\n", p->name);
+	printf("Age: %d\n", p->age);
+	printf("Height: %.1f\n", p->height);
 }
 ```
 
