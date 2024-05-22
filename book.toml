@@ -4,3 +4,6 @@ language = "en"
 multilingual = false
 src = "src"
 title = "C言語ワークショップ資料"
+
+[output.html]
+mathjax-support = true
