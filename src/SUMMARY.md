@@ -36,4 +36,5 @@
   - [構造体の配列](./struct/structarray.md)
   - [構造体のポインタ](./struct/structpointer.md)
 - [メモリの動的確保](./allocate/intro.md)
+  - [構造体の動的メモリ確保](./allocate/structallocate.md)
 - [ファイル入出力](./file/intro.md)
